@@ -1,0 +1,32 @@
+input {
+	margin-top: 10px;
+	border-radius: 15px;
+	height: 30px;
+}
+
+label {
+	margin-right: 5px;
+	font-size: 20px;
+	font-family: Arial;
+	color: brown;
+	font-weight: bold;
+}
+
+form {
+	position: absolute;
+	top: 200px;
+	left: 495px;
+	background-color: rgba(255,255,255, 0.5);
+	border-radius: 15px;
+	padding: 50px;
+}
+
+#myVideo {
+  position: fixed;
+  right: 0;
+  bottom: 0;
+  min-width: 100%;
+  min-height: 100%;
+}
+
+
