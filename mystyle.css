@@ -29,4 +29,18 @@ form {
   min-height: 100%;
 }
 
+button {
+	margin-left: 100px;
+	margin-top: 10px;
+	border: solid 2px blue;
+	padding: 15px;
+	width: 30%;
+	font-family: Arial;
+	color: white;
+	background-color: blue;
+	font-size: 18px;
+	border-radius: 15px;
+}
+
+
 
